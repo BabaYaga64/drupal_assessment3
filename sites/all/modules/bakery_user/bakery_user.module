@@ -8,6 +8,11 @@ function bakery_user_menu() {
     );
     return $items;
 }
+ 
+
+function welcome_new_user() {
+	return 'welcome_new_user';
+}
 
 function bakery_user_login($edit, $account, $category) {
     $_GET['destination'] = 'welcome_new_user';
