@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/edit_comment_form"]
+	path = sites/all/modules/edit_comment_form
+	url = https://github.com/BabaYaga64/CommentFormEditCustomModule.git
